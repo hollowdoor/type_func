@@ -24,7 +24,7 @@ let bool2 = boolean(()=>false);
 
 ```
 
-The variables bool1, bool2, and bool3 in the above example are functions that return a boolean.
+The variables bool1, and bool2 in the above example are functions that return a boolean.
 
 All returned types are converted from the input to the respective type.
 
