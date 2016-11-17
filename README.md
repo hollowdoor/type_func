@@ -26,7 +26,7 @@ The `fn` function returned by one of the above type functions returns the value 
 Example:
 
 ```javascript
-import boolean from 'type-func';
+import { boolean } from 'type-func';
 let bool1 = boolean(true);
 
 let bool2 = boolean(()=>false);
