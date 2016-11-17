@@ -1,6 +1,6 @@
 {
   "name": "type-func",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Type functions",
   "main": "dist/bundle.js",
   "jsnext:main": "dist/bundle.es.js",
